@@ -4,6 +4,7 @@ The data used in `Awareness Disparities in AI-Driven Occupation Replacement`.
 ## Contents
 - [Overview](#overview)
 - [Repo Contents](#repo-contents)
+- [External Data](#external-data)
 
 ## Overview
 Recent advancements in artificial intelligence (AI) are reshaping the labor market. 
@@ -22,3 +23,9 @@ Our findings reveal that traditionally underrepresented racial/ethnic groups and
 
 
 
+## External Data
+
+- O*Net Occupation Description: https://www.onetcenter.org/dl_files/database/db_29_0_excel/Occupation%20Data.xlsx
+- O*Net Occupation Tasks: https://www.onetcenter.org/dl_files/database/db_29_0_excel/Task%20Statements.xlsx
+- SOC 2010 to 2018 Crosswalk: https://www.bls.gov/soc/2018/soc_2010_to_2018_crosswalk.xlsx
+- O*Net 2019 to SOC 2018 Crosswalk: https://www.onetcenter.org/taxonomy/2019/soc/2019_to_SOC_Crosswalk.xlsx?fmt=xlsx
