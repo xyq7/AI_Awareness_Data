@@ -19,7 +19,7 @@ Our findings reveal that traditionally underrepresented racial/ethnic groups and
 ## Repo Contents
 - [data/AI_faimilarity](./data/AI_faimilarity.xlsx): the estimated AI familiarity for occupations.
 - [data/Objective_score](./data/Objective_score.xlsx): the objective assessment of occupation replacement.
-- [data/Survey_data](./data/Survey_data.xlsx): the survey data, including subjective assessment of occupation replacement and demongraphy information.
+- [data/Survey_data](./data/Survey_data.csv): the survey data, including subjective assessment of occupation replacement and demongraphy information.
 
 
 
