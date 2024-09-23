@@ -1,6 +1,6 @@
 # AI_Awareness_Data
 The data used in `Awareness Disparities in AI-Driven Occupation Replacement`.
-
+The data processing and analysis code are available at https://github.com/xyq7/AI_Awareness
 ## Contents
 - [Overview](#overview)
 - [Repo Contents](#repo-contents)
